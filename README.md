@@ -3,12 +3,13 @@ Some facts about me:-
 - 🎓 Computer Application undergrad from FIEM ,Kolkata
 - 🔭 Currently working on Spark AR, Web-dev, Cyber Sec.
 - 🌱 Learning Assembly Language
-- 👯 Looking to collaborate on scripting, automation projects and tech talk on my youtube channel :D
 - 🤔 I’m looking for help with ML :/
 - ⚡ Fun fact 1: Only about 10% of the world's currency is physical money, the rest only exists on computers!
 - ⚡ Fun fact 2: The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years!!
 - :speech_balloon: Ask me about cyber security, networking, web-dev, or literally anything!
 - :mailbox: You can reach me with the links below
+
+[![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=RajdeepMajumder)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-majumder)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeep9rdm@gmail.com)
