@@ -7,11 +7,7 @@ Some facts about me:-
 - ⚡ Fun fact 1: Only about 10% of the world's currency is physical money, the rest only exists on computers!
 - ⚡ Fun fact 2: The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years!!
 - :speech_balloon: Ask me about cyber security, networking, web-dev, or literally anything!
-
-
-[![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=rajdeep-rdm)](https://github.com/anuraghazra/github-readme-stats)
-
-- :mailbox: You can reach me with the links below
+- :mailbox: You can reach me with the links below:-
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-majumder)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeep9rdm@gmail.com)
@@ -28,6 +24,9 @@ Some facts about me:-
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+ 
+ [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=rajdeep-rdm)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ## Lets all code!
 
