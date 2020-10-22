@@ -1,5 +1,7 @@
 ### Namaste World! Rajdeep here.
+
 Some facts about me:-
+
 - 🎓 Computer Application undergrad from FIEM ,Kolkata
 - 🔭 Currently working on Spark AR, Web-dev, Cyber Sec.
 - 🌱 Learning Assembly Language
@@ -15,6 +17,7 @@ Some facts about me:-
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rajdeep.majumder.52)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/rajdeep_rdm)
 [![Youtube](https://img.shields.io/badge/-Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQwTjlcrR0X0iTZ3iyJdPXA)
+
 ##### Languages I use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -25,9 +28,9 @@ Some facts about me:-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
  
- ##My stats on Github:-
+ ## My stats on Github:-
+ 
  [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=rajdeep-rdm)](https://github.com/anuraghazra/github-readme-stats)
 
  
 ## Lets all code!
-
