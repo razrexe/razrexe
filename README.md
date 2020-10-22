@@ -28,9 +28,9 @@ Some facts about me:-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
  
- ## My stats on Github:-
+ ### My stats on Github:-
  
  [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=rajdeep-rdm)](https://github.com/anuraghazra/github-readme-stats)
 
  
-## Lets all code!
+### Lets all code!
