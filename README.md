@@ -13,7 +13,7 @@ Some facts about me:-
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-majumder)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeep9rdm@gmail.com)
-[![My blog](https://img.shields.io/badge/-blog-000000?style=for-the-badge&logo=react&logoColor=white)](https://theurbantrend.blogspot.com)
+[![My blog](https://img.shields.io/badge/-My blog-000000?style=for-the-badge&logo=react&logoColor=white)](https://theurbantrend.blogspot.com)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rajdeep.majumder.52)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/rajdeep_rdm)
 [![Youtube](https://img.shields.io/badge/-Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQwTjlcrR0X0iTZ3iyJdPXA)
