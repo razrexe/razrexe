@@ -12,7 +12,7 @@ Some facts about me:-
 - :mailbox: You can reach me with the links below:-
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-majumder)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/rajdeep_rdm)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/razrexe)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeep9rdm@gmail.com)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rajdeep.majumder.52)
 [![My blog](https://img.shields.io/badge/-BLOG-000000?style=for-the-badge&logo=react&logoColor=white)](https://theurbantrend.blogspot.com)
