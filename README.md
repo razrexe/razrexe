@@ -30,7 +30,7 @@ Some facts about me:-
  
  ### My stats on Github:-
  
- [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=rajdeep-rdm)](https://github.com/anuraghazra/github-readme-stats)
+ [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=razrexe)](https://github.com/anuraghazra/github-readme-stats)
 
  
 ### Lets all code!
