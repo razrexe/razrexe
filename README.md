@@ -2,13 +2,12 @@
 
 Some facts about me:-
 
-- 🎓 Computer Application undergrad from FIEM ,Kolkata
-- 🔭 Currently working on Spark AR, Web-dev, Cyber Sec.
-- 🌱 Learning Assembly Language
-- 🤔 I’m looking for help with ML :/
+- 🎓 Computer Application undergrad from FIEM, Kolkata
+- 🔭 Currently working on Python scripting, Web-dev, freelance pen-testing
+- 🌱 Learning Python
+- 💼 I am actively looking for internship opportunities in InfoSec, Pen-testing, and Digital Marketing.
 - ⚡ Fun fact 1: Only about 10% of the world's currency is physical money, the rest only exists on computers!
 - ⚡ Fun fact 2: The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years!!
-- :speech_balloon: Ask me about cyber security, networking, web-dev, or literally anything!
 - :mailbox: You can reach me with the links below:-
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-majumder)
