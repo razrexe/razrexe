@@ -15,6 +15,7 @@ Some facts about me:-
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeep9rdm@gmail.com)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rajdeep.majumder.52)
 [![My blog](https://img.shields.io/badge/-BLOG-000000?style=for-the-badge&logo=react&logoColor=white)](https://theurbantrend.blogspot.com)
+[![Medium](https://img.shields.io/badge/-BLOG-000000?style=for-the-badge&logo=react&logoColor=white)](https://razrexe.medium.com/)
 [![Youtube](https://img.shields.io/badge/-Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQwTjlcrR0X0iTZ3iyJdPXA)
 
 ##### Languages I use
