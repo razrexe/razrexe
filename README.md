@@ -2,7 +2,7 @@
 
 Some facts about me:-
 
-- 🎓 Computer Application undergrad from FIEM, Kolkata
+- 🎓 Computer Application Graduate from FIEM, Kolkata
 - 🔭 Currently working on Python scripting, Web-dev, freelance pen-testing
 - 🌱 Learning Python
 - 💼 I am actively looking for internship opportunities in InfoSec, Pen-testing, and Digital Marketing.
