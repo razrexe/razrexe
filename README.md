@@ -33,9 +33,9 @@ You might not know this:
  
  ### My stats on Github:-
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=razrexe&show_icons=true&theme=highcontrast)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=razrexe&show_icons=true&theme=ocean_dark)   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razrexe&langs_count=20&layout=compact&theme=highcontrast&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razrexe&langs_count=20&layout=compact&theme=ocean_dark&hide_border=true)  
                                                                                                                                       
 ![G𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=razrexe&bg_color=000000&color=00ffff&line=00ffff&area_color=A160FA&point=DCC5FC&hide_border=true&area=true)
 
@@ -46,7 +46,7 @@ You might not know this:
 
 <p align="center">
   <a href="https://github.com/razrexe">
-    <img  alt="razrexe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=razrexe&theme=highcontrast&hide_border=true"/>
+    <img  alt="razrexe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=razrexe&theme=ocean_dark&hide_border=true"/>
   </a>
   
 </p>
