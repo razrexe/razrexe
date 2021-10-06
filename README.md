@@ -33,6 +33,11 @@ You might not know this:
  
  ### My stats on Github:-
  
+ <!-- Contribution Graph-->
+
+![](https://activity-graph.herokuapp.com/graph?username=razrexe&theme=react-dark&hide_border=true&area=true)
+</br>
+ 
  [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=razrexe)](https://github.com/anuraghazra/github-readme-stats)
 
  
