@@ -40,5 +40,10 @@ You might not know this:
  
  [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=razrexe)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=razrexe&label=Profile%20views&color=6765D1&style=flat" alt="razrexe" width="140" height="25" /> </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=razrexe&theme=dark&show_icons=true&locale=en&layout=compact" alt="razrexe" /></p>
+
+<p align="center"><img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=razrexe&theme=tokyonight" alt="razrexe" /></p>
  
 ### Lets all code!
