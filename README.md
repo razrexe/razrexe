@@ -33,20 +33,20 @@ You might not know this:
  
  ### My stats on Github:-
  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=razrexe)                                                                                                           
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=razrexe&show_icons=true&theme=highcontrast)   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=razrexe&show_icons=true&theme=midnight-purple)   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razrexe&langs_count=20&layout=compact&theme=midnight-purple&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razrexe&langs_count=20&layout=compact&theme=highcontrast&hide_border=true)  
                                                                                                                                       
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=razrexe&bg_color=000000&color=7F22FE&line=7F22FE&area_color=A160FA&point=DCC5FC&hide_border=true&area=true)
+![G𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=razrexe&bg_color=000000&color=7F22FE&line=7F22FE&area_color=A160FA&point=DCC5FC&hide_border=true&area=true)
 
- ## 🔥 Streak stats
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=razrexe)
+
+## 🔥 Streak stats
 
 
 <p align="center">
   <a href="https://github.com/razrexe">
-    <img  alt="razrexe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=razrexe&theme=midnight-purple&hide_border=true"/>
+    <img  alt="razrexe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=razrexe&theme=highcontrast&hide_border=true"/>
   </a>
   
 </p>
