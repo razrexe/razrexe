@@ -38,7 +38,7 @@ You might not know this:
 ![](https://activity-graph.herokuapp.com/graph?username=razrexe&theme=react-dark&hide_border=true&area=true)
 </br>
  
- [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=razrexe)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center"> [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=razrexe)](https://github.com/anuraghazra/github-readme-stats) </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=razrexe&label=Profile%20views&color=6765D1&style=flat" alt="razrexe" width="140" height="25" /> </p>
 
