@@ -2,10 +2,10 @@
 
 In a nutshell:
 
-- 🎓 Computer Application Graduate from FIEM, Kolkata
-- 🔭 Currently working on Python scripting, Web-dev, freelance pen-testing
-- 🌱 Learning Python
-- 💼 I am actively looking for internship opportunities in InfoSec, Pen-testing, and Digital Marketing.
+- 🎓 Computer Application Graduate from FIEM, Kolkata.
+- 🔭 Facinated by the cosmos.
+- 🌱 For personal interests: Currently: Python scripting, web-app pen-testing, hardware hacking.
+- 💼 Currently working on Spark AWS professionally.
 
 You might not know this:
 
