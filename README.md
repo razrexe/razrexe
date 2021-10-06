@@ -1,11 +1,14 @@
 ### Namaste World, Rajdeep here!!!
 
-Some facts about me:-
+In a nutshell:
 
 - 🎓 Computer Application Graduate from FIEM, Kolkata
 - 🔭 Currently working on Python scripting, Web-dev, freelance pen-testing
 - 🌱 Learning Python
 - 💼 I am actively looking for internship opportunities in InfoSec, Pen-testing, and Digital Marketing.
+
+You might not know this:
+
 - ⚡ Fun fact 1: Only about 10% of the world's currency is physical money, the rest only exists on computers!
 - ⚡ Fun fact 2: The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years!!
 - :mailbox: You can reach me with the links below:-
