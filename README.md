@@ -33,7 +33,7 @@ You might not know this:
  
  ### My stats on Github:-
  
-![](https://visitor-badge.laobi.icu/badge?page_id=razrexe)                                                                                                           
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=razrexe)                                                                                                           
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=razrexe&show_icons=true&theme=midnight-purple)   
 
