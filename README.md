@@ -33,7 +33,11 @@ You might not know this:
  
  ### My stats on Github:-
  
-![](https://visitor-badge.laobi.icu/badge?page_id=razrexe)   <br/>                                                                                                        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=razrexe&show_icons=true&theme=midnight-purple)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razrexe&langs_count=20&layout=compact&theme=midnight-purple&hide_border=true)  
+![](https://visitor-badge.laobi.icu/badge?page_id=razrexe)                                                                                                           
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=razrexe&show_icons=true&theme=midnight-purple)   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razrexe&langs_count=20&layout=compact&theme=midnight-purple&hide_border=true)  
                                                                                                                                       
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=razrexe&bg_color=000000&color=7F22FE&line=7F22FE&area_color=A160FA&point=DCC5FC&hide_border=true&area=true)
 
@@ -42,17 +46,10 @@ You might not know this:
 
 <p align="center">
   <a href="https://github.com/razrexe">
-    <img  alt="ayushakar1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=razrexe&theme=midnight-purple&hide_border=true"/>
+    <img  alt="razrexe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=razrexe&theme=midnight-purple&hide_border=true"/>
   </a>
   
 </p>
 
- [![Rajdeep's github stats](https://github-readme-stats.vercel.app/api?username=razrexe)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=razrexe&label=Profile%20views&color=6765D1&style=flat" alt="razrexe" width="140" height="25" /> </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=razrexe&theme=dark&show_icons=true&locale=en&layout=compact" alt="razrexe" /></p>
-
-<p align="center"><img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=razrexe&theme=tokyonight" alt="razrexe" /></p>
  
 ### Lets all code!
