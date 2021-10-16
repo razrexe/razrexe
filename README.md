@@ -41,15 +41,5 @@ FYI:
                                                                                                                                       
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=razrexe)
 
-## 🔥 Streak stats
-
-
-<p align="center">
-  <a href="https://github.com/razrexe">
-    <img  alt="razrexe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=razrexe&theme=ocean_dark&hide_border=true"/>
-  </a>
-  
-</p>
-
  
-### Lets all code!
+### Hey, make sure you take breaks alright? Cheers 🥂
