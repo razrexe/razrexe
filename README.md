@@ -1,4 +1,4 @@
-### Namaste World, Rajdeep here!!!
+### Namaste World, Rajdeep here!
 
 In a nutshell:
 
@@ -10,7 +10,9 @@ In a nutshell:
 You might not know this:
 
 - ⚡ Fun fact 1: Only about 10% of the world's currency is physical money, the rest only exists on computers!
-- ⚡ Fun fact 2: The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years!!
+- ⚡ Fun fact 2: The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years!
+
+FYI:
 - :mailbox: You can reach me with the links below:-
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-majumder)
