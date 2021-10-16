@@ -1,4 +1,4 @@
-### Namaste World, Rajdeep here!
+### Namaste World, Raj here!
 
 In a nutshell:
 
@@ -6,6 +6,10 @@ In a nutshell:
 - 🔭 Facinated by the cosmos.
 - 🌱 For personal interests: Currently: Python scripting, web-app pen-testing, hardware hacking.
 - 💼 Currently working on Spark AWS professionally.
+
+#### Flag: <a href="https://razrexe.github.io">
+<img border="0" alt="flag" src="https://giphy.com/embed/xUPGcoTKhfDvStjxMA" width="100" height="100">
+</a>
 
 You might not know this:
 
